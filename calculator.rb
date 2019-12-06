@@ -1,8 +1,8 @@
 def first_number(firstnum)
-  firstnum.get.to_i
+  firstnum = gets.to_i
 end
 
 def second_number(secnum)
-  secnum.get.to_i
-  if secnum ==
+  secnum = gets.to_i
+  
 end  
