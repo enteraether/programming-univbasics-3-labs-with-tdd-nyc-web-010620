@@ -4,5 +4,6 @@ end
 
 def second_number(secnum)
   secnum = gets.to_i
-
 end
+
+sum = first_number + second_number
